@@ -3,6 +3,7 @@
   "format": "fishbase",
   "citation": "Froese, R. and D. Pauly. Editors. 2016. FishBase. World Wide Web electronic publication. www.fishbase.org, version (10/2016).",
   "shouldResolveReferences": true,
+  "namespace": "FB",
   "resources": {
     "diet.tsv": "diet.tsv.gz",
     "fooditems.tsv": "fooditems.tsv.gz",
