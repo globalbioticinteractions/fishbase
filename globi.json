@@ -1,0 +1,15 @@
+{ 
+  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
+  "format": "fishbase",
+  "citation": "Froese, R. and D. Pauly. Editors. 2016. FishBase. World Wide Web electronic publication. www.fishbase.org, version (10/2016).",
+  "shouldResolveReferences": true,
+  "resources": {
+    "diet.tsv": "diet.tsv.gz",
+    "fooditems.tsv": "fooditems.tsv.gz",
+    "predats.tsv": "predats.tsv",
+    "species_sealifebase.tsv": "species_sealifebase.tsv.gz",
+    "species_fishbase.tsv": "species_fishbase.tsv.gz",
+    "countref.tsv": "countref.tsv.gz",
+    "refrens.tsv": "refrens.tsv.gz"
+  } 
+}
