@@ -8,4 +8,6 @@ Data associated with this resource is licensed under a [Creative Commons Attribu
 When using, please attribute respective software packages as well as FishBase itself:
 Froese, R. and D. Pauly. Editors. 2016. FishBase. World Wide Web electronic publication. www.fishbase.org, version (10/2016).
 
-Also, when using specific records, please cite the original data source referenced in the dataset. 
+Also, when using specific records, please cite the original data source referenced in the dataset.
+
+This dataset is also made available through http://globalbioticinteractions.org . 
