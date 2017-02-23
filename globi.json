@@ -7,7 +7,7 @@
   "resources": {
     "diet.tsv": "diet_fishbase.tsv.gz",
     "fooditems.tsv": "fooditems_fishbase.tsv.gz",
-    "predats.tsv": "predats_fishbase.tsv",
+    "predats.tsv": "predats_fishbase.tsv.gz",
     "species_sealifebase.tsv": "species_sealifebase.tsv.gz",
     "species_fishbase.tsv": "species_fishbase.tsv.gz",
     "countref.tsv": "countref_fishbase.tsv.gz",
