@@ -5,12 +5,12 @@
   "shouldResolveReferences": true,
   "namespace": "FB",
   "resources": {
-    "diet.tsv": "diet.tsv.gz",
-    "fooditems.tsv": "fooditems.tsv.gz",
-    "predats.tsv": "predats.tsv",
+    "diet.tsv": "diet_fishbase.tsv.gz",
+    "fooditems.tsv": "fooditems_fishbase.tsv.gz",
+    "predats.tsv": "predats_fishbase.tsv",
     "species_sealifebase.tsv": "species_sealifebase.tsv.gz",
     "species_fishbase.tsv": "species_fishbase.tsv.gz",
-    "countref.tsv": "countref.tsv.gz",
-    "refrens.tsv": "refrens.tsv.gz"
+    "countref.tsv": "countref_fishbase.tsv.gz",
+    "refrens.tsv": "refrens_fishbase.tsv.gz"
   } 
 }
